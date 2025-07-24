@@ -1,4 +1,4 @@
-module github.com/Pyrinpyi/go-muhash
+module github.com/ZarzaProject/go-muhash
 
 go 1.16
 
